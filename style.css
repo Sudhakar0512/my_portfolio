@@ -295,9 +295,7 @@ section {
 }
 
 .details-container {
-  padding: 0.5rem;
-  padding-left: 3rem;
-  padding-right: 3rem;
+  padding: 1.5rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
