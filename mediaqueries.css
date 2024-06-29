@@ -4,6 +4,11 @@
   }
 }
 
+#projects ,
+    #contact
+    {
+      height: auto;
+    }
 
 @media screen and (max-width: 1400px) {
     #profile {
@@ -13,9 +18,10 @@
     .about-containers {
       flex-wrap: wrap;
     }
-    #contact,
-    #projects {
-      height: fit-content;
+    #projects ,
+    #contact
+    {
+      height: auto;
     }
   }
   
@@ -115,4 +121,4 @@
 
 
 
-  
+
